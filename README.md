@@ -10,9 +10,9 @@ Full Stack Web Developer and software development student, focused on building p
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| **Sneaker Release Website** | Nike & Jordan release tracker with 3D scroll experience | React, Tailwind, Node.js | [Repo](https://github.com/your-username/sneaker-site) · [Live](https://your-live-link.com) |
-| **ABIR RECORDS** | Music & visual production website with services and portfolio sections | React, Tailwind | [Repo](https://github.com/your-username/abir-records) · [Live](https://your-live-link.com) |
+| **ABIR RECORDS** | Music & visual production website with services and portfolio sections | React, Tailwind | [Repo[](https://github.com/alifsheikh0918-tech/abir-records--web) · [Live](https://your-live-link.com) |
 | **Developer Portfolio** | My personal portfolio showcasing projects and skills | React, Tailwind, Vite | [Repo](https://github.com/your-username/portfolio) · [Live](https://your-live-link.com) |
+| **Sneaker Release Website** | Nike & Jordan release tracker with 3D scroll experience | React, Tailwind, Node.js | [Repo](https://github.com/your-username/sneaker-site) · [Live](https://your-live-link.com) |
 
 ## 📫 Contact
 - Email: shuprovatalif@gmail.com
